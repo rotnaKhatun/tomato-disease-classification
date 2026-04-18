@@ -112,7 +112,7 @@ The following outputs are included in the repository:
 ```
 ├── README.md
 ├── accuracyPlot.PNG
-├── confution matrix.PNG
+├── confusion matrix.PNG
 ├── model_train.py
 ├── tomato-leaf-disease-classification.ipynb
 ```
