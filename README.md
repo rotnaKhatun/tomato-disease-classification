@@ -19,7 +19,8 @@ This project aims to:
 ## 📂 Dataset
 
 The dataset contains labeled images of tomato leaves categorized into multiple classes (healthy and diseased).
-
+Dataset is not included due to size limitations.
+Dataset link: (https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
 ### Structure:
 ```
 train/
